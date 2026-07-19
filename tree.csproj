@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="help.html" />
+    <EmbeddedResource Include="zh_cn.lang" />
+    <EmbeddedResource Include="en_us.lang" />
+    <EmbeddedResource Include="ja_jp.lang" />
+    <EmbeddedResource Include="ko_kr.lang" />
+    <EmbeddedResource Include="ru_ru.lang" />
+    <EmbeddedResource Include="fr_fr.lang" />
+    <EmbeddedResource Include="de_de.lang" />
+    <EmbeddedResource Include="es_es.lang" />
+  </ItemGroup>
+
+</Project>

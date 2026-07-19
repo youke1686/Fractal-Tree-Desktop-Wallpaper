@@ -1,0 +1,94 @@
+# ========================================
+# Fraktalbaum Desktop-Hintergrundbild - Deutsche Sprachdatei
+# ========================================
+
+# ---- Hauptfenster (main) ----
+main.title=Fraktalbaum
+main.label.title=Fraktalbaum Desktop-Hintergrundbild
+main.btn.classic=Klassischer Fraktalbaum
+main.btn.add=Hinzufügen
+main.btn.edit=Bearbeiten
+main.btn.delete=Löschen
+main.btn.edit.done=Fertig
+main.btn.delete.done=Fertig
+main.msg.preset_no_edit=Preset-Bäume können nicht bearbeitet werden.
+main.msg.preset_no_delete=Preset-Bäume können nicht gelöscht werden.
+main.msg.title=Hinweis
+
+# ---- Rendering-Fenster (Form1) ----
+form1.title=Fraktalbaum
+form1.btn.set_wallpaper=Als Desktop-Hintergrundbild festlegen
+form1.btn.refresh=Aktualisieren
+form1.btn.save_image=Als Bild speichern
+form1.msg.save_success_prefix=Auf dem Desktop gespeichert：
+form1.msg.save_success.title=Speichern Erfolgreich
+
+# ---- Parametereinstellungsfenster (options) ----
+options.title=Baumart-Einstellungen
+options.lbl.group_control=Steuerung Mehrerer Parametergruppen
+options.lbl.name=Baumname
+options.lbl.leaf_threshold=Blattschwellenwert
+options.lbl.min_branch=Minimale Astlänge
+options.lbl.trunk_settings=Stammeinstellungen
+options.lbl.leaf_settings=Blatteinstellungen
+options.lbl.bg_color=Hintergrundfarbe
+options.lbl.typical_height=Typische Effektive Höhe
+options.lbl.fallen_dispersion=Fallblattstreuung
+options.lbl.fallen_density=Fallblattdichte
+options.lbl.max_depth=Maximale Tiefe
+options.lbl.max_angle=Maximale Astneigung
+options.lbl.ratio_range=Längenabnahmebereich
+options.lbl.angle_range=Verzweigungswinkelbereich
+options.lbl.initial_length=Stammlänge
+options.btn.settings=Einstellungen
+options.btn.select=Auswählen
+options.btn.distribution=Verteilungskurve
+options.btn.confirm=OK
+options.btn.preview=Vorschau
+options.btn.cancel=Abbrechen
+options.btn.help=Hilfe
+options.btn.open_folder=Baumordner Öffnen
+options.param_group=Parametergruppe {0}
+options.default_name=Unbenannt
+
+# ---- Dialogtitel ----
+dialog.length_distribution=Längenabnahme-Wahrscheinlichkeitsverteilung
+dialog.angle_distribution=Verzweigungswinkel-Wahrscheinlichkeitsverteilung
+dialog.trunk=Stamm
+dialog.leaf=Blatt
+
+# ---- Farbgewicht-Editor (ColorWeightEditor) ----
+coloreditor.title=Fareinstellungen
+coloreditor.title.suffix=Fareinstellungen
+coloreditor.btn.add=+ Farbe Hinzufügen
+coloreditor.btn.cancel=Abbrechen
+coloreditor.btn.confirm=OK
+coloreditor.btn.pick=Auswählen
+coloreditor.lbl.weight=Gewicht：
+coloreditor.lbl.width_ratio=Linienbreitenverhältnis：
+
+# ---- Verteilungskurven-Editor (LengthDistributionDialog) ----
+distribution.btn.reset=Auf Gleichverteilung Zurücksetzen
+distribution.btn.confirm=OK
+distribution.btn.cancel=Abbrechen
+distribution.hint=Klicken Sie auf die Balken, um die Wahrscheinlichkeitsgewichte für jedes Intervall anzupassen
+
+# ---- Menüleiste ----
+menu.language=Sprache
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- Preset-Baumnamen ----
+preset.classic=Klassischer Fraktalbaum
+preset.sakura=Kirschbaum
+preset.green=Grüner Baum
+preset.pine=Kiefer
+preset.maple=Ahorn
+preset.maple.group1=Stamm
+preset.maple.group2=Krone

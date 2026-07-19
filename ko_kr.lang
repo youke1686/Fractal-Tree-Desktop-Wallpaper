@@ -1,0 +1,94 @@
+# ========================================
+# 프랙탈 트리 데스크톱 월페이퍼 - 한국어 언어 파일
+# ========================================
+
+# ---- 메인 창 (main) ----
+main.title=프랙탈 트리
+main.label.title=프랙탈 트리 데스크톱 월페이퍼
+main.btn.classic=클래식 프랙탈 트리
+main.btn.add=추가
+main.btn.edit=편집
+main.btn.delete=삭제
+main.btn.edit.done=완료
+main.btn.delete.done=완료
+main.msg.preset_no_edit=프리셋 나무 종은 편집할 수 없습니다.
+main.msg.preset_no_delete=프리셋 나무 종은 삭제할 수 없습니다.
+main.msg.title=알림
+
+# ---- 렌더링 창 (Form1) ----
+form1.title=프랙탈 트리
+form1.btn.set_wallpaper=데스크톱 월페이퍼로 설정
+form1.btn.refresh=새로고침
+form1.btn.save_image=이미지로 저장
+form1.msg.save_success_prefix=데스크톱에 저장됨：
+form1.msg.save_success.title=저장 성공
+
+# ---- 파라미터 설정 창 (options) ----
+options.title=나무 종 파라미터 설정
+options.lbl.group_control=다중 파라미터 그룹 제어
+options.lbl.name=나무 이름
+options.lbl.leaf_threshold=잎 임계값
+options.lbl.min_branch=최소 가지 길이
+options.lbl.trunk_settings=줄기 설정
+options.lbl.leaf_settings=잎 설정
+options.lbl.bg_color=배경색
+options.lbl.typical_height=대표적 유효 높이
+options.lbl.fallen_dispersion=낙엽 분산도
+options.lbl.fallen_density=낙엽 밀도
+options.lbl.max_depth=최대 깊이
+options.lbl.max_angle=최대 가지 기울기
+options.lbl.ratio_range=길이 감쇠 범위
+options.lbl.angle_range=분기 각도 범위
+options.lbl.initial_length=줄기 길이
+options.btn.settings=설정
+options.btn.select=선택
+options.btn.distribution=분포 곡선
+options.btn.confirm=확인
+options.btn.preview=미리보기
+options.btn.cancel=취소
+options.btn.help=도움말
+options.btn.open_folder=나무 폴더 열기
+options.param_group=파라미터 그룹{0}
+options.default_name=무제
+
+# ---- 대화상자 제목 ----
+dialog.length_distribution=길이 감쇠 확률 분포
+dialog.angle_distribution=분기 각도 확률 분포
+dialog.trunk=줄기
+dialog.leaf=잎
+
+# ---- 색상 가중치 편집기 (ColorWeightEditor) ----
+coloreditor.title=색상 설정
+coloreditor.title.suffix=색상 설정
+coloreditor.btn.add=+ 색상 추가
+coloreditor.btn.cancel=취소
+coloreditor.btn.confirm=확인
+coloreditor.btn.pick=색상 선택
+coloreditor.lbl.weight=가중치：
+coloreditor.lbl.width_ratio=선 너비 비율：
+
+# ---- 분포 곡선 편집기 (LengthDistributionDialog) ----
+distribution.btn.reset=균등하게 재설정
+distribution.btn.confirm=확인
+distribution.btn.cancel=취소
+distribution.hint=막대 그래프를 클릭하여 각 구간의 확률 가중치 조정
+
+# ---- 메뉴 바 ----
+menu.language=언어
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- 프리셋 나무 종 이름 ----
+preset.classic=클래식 프랙탈 트리
+preset.sakura=벚나무
+preset.green=녹색 나무
+preset.pine=소나무
+preset.maple=단풍나무
+preset.maple.group1=줄기
+preset.maple.group2=수관

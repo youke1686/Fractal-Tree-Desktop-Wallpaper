@@ -1,0 +1,94 @@
+# ========================================
+# フラクタルツリー デスクトップ壁紙 - 日本語言語ファイル
+# ========================================
+
+# ---- 主ウィンドウ (main) ----
+main.title=フラクタルツリー
+main.label.title=フラクタルツリー デスクトップ壁紙
+main.btn.classic=クラシックフラクタルツリー
+main.btn.add=追加
+main.btn.edit=編集
+main.btn.delete=削除
+main.btn.edit.done=完了
+main.btn.delete.done=完了
+main.msg.preset_no_edit=プリセット樹種は編集できません。
+main.msg.preset_no_delete=プリセット樹種は削除できません。
+main.msg.title=通知
+
+# ---- レンダリングウィンドウ (Form1) ----
+form1.title=フラクタルツリー
+form1.btn.set_wallpaper=デスクトップ壁紙に設定
+form1.btn.refresh=更新
+form1.btn.save_image=画像として保存
+form1.msg.save_success_prefix=デスクトップに保存されました：
+form1.msg.save_success.title=保存成功
+
+# ---- パラメータ設定ウィンドウ (options) ----
+options.title=樹種パラメータ設定
+options.lbl.group_control=複数パラメータグループ制御
+options.lbl.name=木の名前
+options.lbl.leaf_threshold=葉の閾値
+options.lbl.min_branch=最小枝の長さ
+options.lbl.trunk_settings=幹の設定
+options.lbl.leaf_settings=葉の設定
+options.lbl.bg_color=背景色
+options.lbl.typical_height=典型的有効高さ
+options.lbl.fallen_dispersion=落ち葉の分散度
+options.lbl.fallen_density=落ち葉密度
+options.lbl.max_depth=最大深度
+options.lbl.max_angle=最大枝傾斜角
+options.lbl.ratio_range=長さ減衰範囲
+options.lbl.angle_range=分岐角度範囲
+options.lbl.initial_length=幹の長さ
+options.btn.settings=設定
+options.btn.select=選択
+options.btn.distribution=分布曲線
+options.btn.confirm=確定
+options.btn.preview=プレビュー
+options.btn.cancel=キャンセル
+options.btn.help=ヘルプ
+options.btn.open_folder=木のフォルダを開く
+options.param_group=パラメータグループ{0}
+options.default_name=無題
+
+# ---- ダイアログタイトル ----
+dialog.length_distribution=長さ減衰確率分布
+dialog.angle_distribution=分岐角度確率分布
+dialog.trunk=幹
+dialog.leaf=葉
+
+# ---- カラー重量エディタ (ColorWeightEditor) ----
+coloreditor.title=色設定
+coloreditor.title.suffix=色設定
+coloreditor.btn.add=+ 色を追加
+coloreditor.btn.cancel=キャンセル
+coloreditor.btn.confirm=確定
+coloreditor.btn.pick=選色
+coloreditor.lbl.weight=重み：
+coloreditor.lbl.width_ratio=線幅比：
+
+# ---- 分布曲線エディタ (LengthDistributionDialog) ----
+distribution.btn.reset=均一にリセット
+distribution.btn.confirm=確定
+distribution.btn.cancel=キャンセル
+distribution.hint=棒グラフをクリックして各区間の確率重みを調整
+
+# ---- メニューバー ----
+menu.language=言語
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- プリセット樹種名 ----
+preset.classic=クラシックフラクタルツリー
+preset.sakura=桜
+preset.green=緑の木
+preset.pine=松
+preset.maple=カエデ
+preset.maple.group1=幹
+preset.maple.group2=樹冠
