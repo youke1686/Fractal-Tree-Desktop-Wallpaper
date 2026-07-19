@@ -35,7 +35,7 @@
 
 详细的使用帮助请参阅：
 
-- [通用帮助网页](help.html)
+- [通用帮助网页](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > 也可以在应用内设置界面打开这个
 
 或原始文件：

@@ -35,7 +35,7 @@
 
 Подробная справка по использованию:
 
-- [Общая страница справки](help.html)
+- [Общая страница справки](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > Также можно открыть из интерфейса настроек в приложении
 
 Или оригинальные файлы:

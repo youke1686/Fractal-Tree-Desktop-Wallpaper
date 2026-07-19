@@ -35,7 +35,7 @@ Un generador de árboles fractales desarrollado con C# Windows Forms que puede g
 
 Para ayuda detallada de uso, consulte:
 
-- [Página de Ayuda General](help.html)
+- [Página de Ayuda General](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > También se puede abrir desde la interfaz de configuración en la aplicación
 
 O archivos originales:

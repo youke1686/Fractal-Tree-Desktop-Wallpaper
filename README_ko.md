@@ -35,7 +35,7 @@ C# Windows Forms로 개발된 프랙탈 트리 생성기로, 다양한 형태의
 
 자세한 사용 방법은 다음을 참조하세요:
 
-- [일반 도움말 페이지](help.html)
+- [일반 도움말 페이지](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > 앱 내 설정 화면에서도 열 수 있습니다
 
 또는 원본 파일:

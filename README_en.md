@@ -35,7 +35,7 @@ Let's plant trees on your computer desktop!
 
 For detailed usage help, please refer to:
 
-- [General Help Page](help.html)
+- [General Help Page](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > You can also open this from the settings interface in the application
 
 Or original files:

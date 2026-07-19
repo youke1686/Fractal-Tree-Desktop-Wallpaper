@@ -35,7 +35,7 @@ Plantons des arbres sur le bureau de votre ordinateur !
 
 Pour une aide détaillée sur l'utilisation, veuillez consulter:
 
-- [Page d'Aide Générale](help.html)
+- [Page d'Aide Générale](https://htmlpreview.github.io/?https://github.com/youke1686/Fractal-Tree-Desktop-Wallpaper/blob/master/help.html)
 > Vous pouvez aussi l'ouvrir depuis l'interface de paramètres dans l'application
 
 Ou les fichiers originaux:
