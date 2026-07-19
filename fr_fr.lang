@@ -1,0 +1,94 @@
+# ========================================
+# Arbre Fractal Fond d'Écran - Fichier de langue française
+# ========================================
+
+# ---- Fenêtre principale (main) ----
+main.title=Arbre Fractal
+main.label.title=Arbre Fractal Fond d'Écran
+main.btn.classic=Arbre Fractal Classique
+main.btn.add=Ajouter
+main.btn.edit=Modifier
+main.btn.delete=Supprimer
+main.btn.edit.done=Terminé
+main.btn.delete.done=Terminé
+main.msg.preset_no_edit=Les arbres prédéfinis ne peuvent pas être modifiés.
+main.msg.preset_no_delete=Les arbres prédéfinis ne peuvent pas être supprimés.
+main.msg.title=Notice
+
+# ---- Fenêtre de rendu (Form1) ----
+form1.title=Arbre Fractal
+form1.btn.set_wallpaper=Définir comme Fond d'Écran
+form1.btn.refresh=Actualiser
+form1.btn.save_image=Enregistrer comme Image
+form1.msg.save_success_prefix=Enregistré sur le bureau：
+form1.msg.save_success.title=Enregistrement Réussi
+
+# ---- Fenêtre de paramètres (options) ----
+options.title=Paramètres des Espèces d'Arbres
+options.lbl.group_control=Contrôle de Plusieurs Groupes de Paramètres
+options.lbl.name=Nom de l'Arbre
+options.lbl.leaf_threshold=Seuil de Feuille
+options.lbl.min_branch=Longueur Minimale de Branche
+options.lbl.trunk_settings=Paramètres de Tronc
+options.lbl.leaf_settings=Paramètres des Feuilles
+options.lbl.bg_color=Couleur de Fond
+options.lbl.typical_height=Hauteur Efficace Typique
+options.lbl.fallen_dispersion=Dispersion des Feuilles Mortes
+options.lbl.fallen_density=Densité de Feuilles Mortes
+options.lbl.max_depth=Profondeur Maximale
+options.lbl.max_angle=Inclinaison Maximale de Branche
+options.lbl.ratio_range=Plage de Décroissance de Longueur
+options.lbl.angle_range=Plage d'Angle de Bifurcation
+options.lbl.initial_length=Longueur du Tronc
+options.btn.settings=Paramètres
+options.btn.select=Sélectionner
+options.btn.distribution=Courbe de Distribution
+options.btn.confirm=OK
+options.btn.preview=Aperçu
+options.btn.cancel=Annuler
+options.btn.help=Aide
+options.btn.open_folder=Ouvrir le Dossier d'Arbres
+options.param_group=Groupe de Paramètres {0}
+options.default_name=Sans titre
+
+# ---- Titres des boîtes de dialogue ----
+dialog.length_distribution=Distribution de Probabilité de Décroissance de Longueur
+dialog.angle_distribution=Distribution de Probabilité d'Angle de Bifurcation
+dialog.trunk=Tronc
+dialog.leaf=Feuille
+
+# ---- Éditeur de poids de couleur (ColorWeightEditor) ----
+coloreditor.title=Paramètres de Couleur
+coloreditor.title.suffix=Paramètres de Couleur
+coloreditor.btn.add=+ Ajouter une Couleur
+coloreditor.btn.cancel=Annuler
+coloreditor.btn.confirm=OK
+coloreditor.btn.pick=Sélectionner
+coloreditor.lbl.weight=Poids：
+coloreditor.lbl.width_ratio=Rapport de Largeur de Ligne：
+
+# ---- Éditeur de courbes de distribution (LengthDistributionDialog) ----
+distribution.btn.reset=Réinitialiser à Uniforme
+distribution.btn.confirm=OK
+distribution.btn.cancel=Annuler
+distribution.hint=Cliquez sur le graphique à barres pour ajuster les poids de probabilité de chaque intervalle
+
+# ---- Barre de menu ----
+menu.language=Langue
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- Noms d'arbres prédéfinis ----
+preset.classic=Arbre Fractal Classique
+preset.sakura=Cerisier
+preset.green=Arbre Vert
+preset.pine=Pin
+preset.maple=Érable
+preset.maple.group1=Tronc
+preset.maple.group2=Cime

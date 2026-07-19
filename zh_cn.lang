@@ -1,0 +1,94 @@
+# ========================================
+# 分形树桌面壁纸 - 简体中文语言文件
+# ========================================
+
+# ---- 主窗口 (main) ----
+main.title=分形树
+main.label.title=分形树桌面壁纸
+main.btn.classic=经典分形树
+main.btn.add=添加
+main.btn.edit=编辑
+main.btn.delete=删除
+main.btn.edit.done=完成
+main.btn.delete.done=完成
+main.msg.preset_no_edit=预设树种不可编辑。
+main.msg.preset_no_delete=预设树种不可删除。
+main.msg.title=提示
+
+# ---- 渲染窗口 (Form1) ----
+form1.title=分形树
+form1.btn.set_wallpaper=设为桌面壁纸
+form1.btn.refresh=刷新
+form1.btn.save_image=保存为图片
+form1.msg.save_success_prefix=已保存到桌面：
+form1.msg.save_success.title=保存成功
+
+# ---- 参数设置窗口 (options) ----
+options.title=树种参数设置
+options.lbl.group_control=多参数组控制
+options.lbl.name=树名
+options.lbl.leaf_threshold=叶子阈值
+options.lbl.min_branch=最短分支长度
+options.lbl.trunk_settings=树干设置
+options.lbl.leaf_settings=叶片设置
+options.lbl.bg_color=背景颜色
+options.lbl.typical_height=参数典型生效高度
+options.lbl.fallen_dispersion=落叶分散程度
+options.lbl.fallen_density=落叶密度
+options.lbl.max_depth=最大深度
+options.lbl.max_angle=枝条最大倾角
+options.lbl.ratio_range=长度衰减范围
+options.lbl.angle_range=分叉角度范围
+options.lbl.initial_length=主干长度
+options.btn.settings=设置
+options.btn.select=选择
+options.btn.distribution=分布曲线
+options.btn.confirm=确定
+options.btn.preview=预览
+options.btn.cancel=取消
+options.btn.help=帮助
+options.btn.open_folder=打开树文件夹
+options.param_group=参数组{0}
+options.default_name=未命名
+
+# ---- 对话框标题 ----
+dialog.length_distribution=长度衰减概率分布
+dialog.angle_distribution=分叉角度概率分布
+dialog.trunk=树干
+dialog.leaf=叶片
+
+# ---- 颜色权重编辑器 (ColorWeightEditor) ----
+coloreditor.title=颜色设置
+coloreditor.title.suffix=颜色设置
+coloreditor.btn.add=+ 添加颜色
+coloreditor.btn.cancel=取消
+coloreditor.btn.confirm=确定
+coloreditor.btn.pick=选色
+coloreditor.lbl.weight=权重:
+coloreditor.lbl.width_ratio=线宽比:
+
+# ---- 分布曲线编辑器 (LengthDistributionDialog) ----
+distribution.btn.reset=重置为均匀
+distribution.btn.confirm=确定
+distribution.btn.cancel=取消
+distribution.hint=点击条形图调整各区间概率权重
+
+# ---- 菜单栏 ----
+menu.language=语言
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- 预设树种名称（仅用户界面可见的部分） ----
+preset.classic=经典分形树
+preset.sakura=樱花树
+preset.green=绿树
+preset.pine=松树
+preset.maple=枫树
+preset.maple.group1=主干
+preset.maple.group2=树冠

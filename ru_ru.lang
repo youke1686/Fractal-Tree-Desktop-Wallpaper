@@ -1,0 +1,94 @@
+# ========================================
+# Фрактальное Дерево Обои для Рабочего Стола - Файл русского языка
+# ========================================
+
+# ---- Главное окно (main) ----
+main.title=Фрактальное Дерево
+main.label.title=Фрактальное Дерево Обои для Рабочего Стола
+main.btn.classic=Классическое Фрактальное Дерево
+main.btn.add=Добавить
+main.btn.edit=Редактировать
+main.btn.delete=Удалить
+main.btn.edit.done=Готово
+main.btn.delete.done=Готово
+main.msg.preset_no_edit=Предустановленные виды деревьев нельзя редактировать.
+main.msg.preset_no_delete=Предустановленные виды деревьев нельзя удалять.
+main.msg.title=Уведомление
+
+# ---- Окно рендеринга (Form1) ----
+form1.title=Фрактальное Дерево
+form1.btn.set_wallpaper=Установить как Обои
+form1.btn.refresh=Обновить
+form1.btn.save_image=Сохранить как Изображение
+form1.msg.save_success_prefix=Сохранено на рабочий стол：
+form1.msg.save_success.title=Сохранение Успешно
+
+# ---- Окно настроек параметров (options) ----
+options.title=Настройки Вида Дерева
+options.lbl.group_control=Управление Несколькими Группами Параметров
+options.lbl.name=Имя Дерева
+options.lbl.leaf_threshold=Порог Листа
+options.lbl.min_branch=Минимальная Длина Ветви
+options.lbl.trunk_settings=Настройки Ствола
+options.lbl.leaf_settings=Настройки Листьев
+options.lbl.bg_color=Цвет Фона
+options.lbl.typical_height=Типичная Эффективная Высота
+options.lbl.fallen_dispersion=Рассеяние Опавших Листьев
+options.lbl.fallen_density=Плотность Опавших Листьев
+options.lbl.max_depth=Максимальная Глубина
+options.lbl.max_angle=Максимальный Наклон Ветви
+options.lbl.ratio_range=Диапазон Убывания Длины
+options.lbl.angle_range=Диапазон Угла Ветвления
+options.lbl.initial_length=Длина Ствола
+options.btn.settings=Настройки
+options.btn.select=Выбрать
+options.btn.distribution=Кривая Распределения
+options.btn.confirm=OK
+options.btn.preview=Предпросмотр
+options.btn.cancel=Отмена
+options.btn.help=Помощь
+options.btn.open_folder=Открыть Папку Деревьев
+options.param_group=Группа Параметров {0}
+options.default_name=Безымянный
+
+# ---- Заголовки диалогов ----
+dialog.length_distribution=Распределение Вероятности Убывания Длины
+dialog.angle_distribution=Распределение Вероятности Угла Ветвления
+dialog.trunk=Ствол
+dialog.leaf=Лист
+
+# ---- Редактор веса цвета (ColorWeightEditor) ----
+coloreditor.title=Настройки Цвета
+coloreditor.title.suffix=Настройки Цвета
+coloreditor.btn.add=+ Добавить Цвет
+coloreditor.btn.cancel=Отмена
+coloreditor.btn.confirm=OK
+coloreditor.btn.pick=Выбрать
+coloreditor.lbl.weight=Вес：
+coloreditor.lbl.width_ratio=Коэффициент Толщины Линии：
+
+# ---- Редактор кривых распределения (LengthDistributionDialog) ----
+distribution.btn.reset=Сбросить на Равномерное
+distribution.btn.confirm=OK
+distribution.btn.cancel=Отмена
+distribution.hint=Кликайте по столбцам для настройки весов вероятности каждого интервала
+
+# ---- Строка меню ----
+menu.language=Язык
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- Названия предустановленных видов деревьев ----
+preset.classic=Классическое Фрактальное Дерево
+preset.sakura=Сакура
+preset.green=Зелёное Дерево
+preset.pine=Сосна
+preset.maple=Клён
+preset.maple.group1=Ствол
+preset.maple.group2=Крона

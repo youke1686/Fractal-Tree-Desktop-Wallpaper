@@ -1,0 +1,91 @@
+# Fractal Tree - English
+# ======================
+
+# Main Window
+main.title=Fractal Tree Desktop Wallpaper
+main.label.title=Fractal Tree Desktop Wallpaper
+main.btn.add=Add
+main.btn.edit=Edit
+main.btn.delete=Delete
+main.btn.edit.done=Done
+main.btn.delete.done=Done
+main.msg.preset_no_edit=Preset trees cannot be edited.
+main.msg.preset_no_delete=Preset trees cannot be deleted.
+main.msg.title=Notice
+
+# Render Window
+form1.title=Fractal Tree
+form1.btn.set_wallpaper=Set as Wallpaper
+form1.btn.refresh=Refresh
+form1.btn.save_image=Save as Image
+form1.msg.save_success_prefix=Saved to desktop: 
+form1.msg.save_success.title=Save Successful
+
+# Options Window
+options.title=Tree Species Settings
+options.lbl.group_control=Multi-Parameter Group Control
+options.lbl.name=Tree Name
+options.lbl.leaf_threshold=Leaf Threshold
+options.lbl.min_branch=Min Branch Length
+options.lbl.trunk_settings=Trunk Settings
+options.lbl.leaf_settings=Leaf Settings
+options.lbl.bg_color=Background Color
+options.lbl.typical_height=Typical Effective Height
+options.lbl.fallen_dispersion=Fallen Leaf Dispersion
+options.lbl.fallen_density=Fallen Leaf Density
+options.lbl.max_depth=Max Depth
+options.lbl.max_angle=Max Branch Inclination
+options.lbl.ratio_range=Length Decay Range
+options.lbl.angle_range=Branch Angle Range
+options.lbl.initial_length=Trunk Length
+options.btn.settings=Settings
+options.btn.select=Select
+options.btn.distribution=Distribution Curve
+options.btn.confirm=OK
+options.btn.preview=Preview
+options.btn.cancel=Cancel
+options.btn.help=Help
+options.btn.open_folder=Open Tree Folder
+options.param_group=Parameter Group {0}
+options.default_name=Untitled
+
+# Dialog Titles
+dialog.length_distribution=Length Decay Probability Distribution
+dialog.angle_distribution=Branch Angle Probability Distribution
+dialog.trunk=Trunk
+dialog.leaf=Leaf
+
+# ColorWeightEditor
+coloreditor.title.suffix= Color Settings
+coloreditor.btn.add=+ Add Color
+coloreditor.btn.cancel=Cancel
+coloreditor.btn.confirm=OK
+coloreditor.btn.pick=Pick
+coloreditor.lbl.weight=Weight:
+coloreditor.lbl.width_ratio=Width Ratio:
+
+# LengthDistributionDialog
+distribution.btn.reset=Reset to Uniform
+distribution.btn.confirm=OK
+distribution.btn.cancel=Cancel
+distribution.hint=Click bar chart to adjust probability weights for each interval
+
+# Menu
+menu.language=Language
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# Preset Names
+preset.classic=Classic Fractal Tree
+preset.sakura=Sakura
+preset.green=Green Tree
+preset.pine=Pine
+preset.maple=Maple
+preset.maple.group1=Trunk
+preset.maple.group2=Crown

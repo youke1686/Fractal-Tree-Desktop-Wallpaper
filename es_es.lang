@@ -1,0 +1,94 @@
+# ========================================
+# Fractal Tree Fondos de Escritorio - Archivo de idioma español
+# ========================================
+
+# ---- Ventana principal (main) ----
+main.title=Árbol Fractal
+main.label.title=Fractal Tree Fondos de Escritorio
+main.btn.classic=Árbol Fractal Clásico
+main.btn.add=Añadir
+main.btn.edit=Editar
+main.btn.delete=Eliminar
+main.btn.edit.done=Hecho
+main.btn.delete.done=Hecho
+main.msg.preset_no_edit=Los árboles preestablecidos no se pueden editar.
+main.msg.preset_no_delete=Los árboles preestablecidos no se pueden eliminar.
+main.msg.title=Aviso
+
+# ---- Ventana de renderizado (Form1) ----
+form1.title=Árbol Fractal
+form1.btn.set_wallpaper=Establecer como Fondo de Escritorio
+form1.btn.refresh=Actualizar
+form1.btn.save_image=Guardar como Imagen
+form1.msg.save_success_prefix=Guardado en el escritorio：
+form1.msg.save_success.title=Guardado Exitoso
+
+# ---- Ventana de configuración de parámetros (options) ----
+options.title=Configuración de Especies de Árbol
+options.lbl.group_control=Control de Múltiples Grupos de Parámetros
+options.lbl.name=Nombre del Árbol
+options.lbl.leaf_threshold=Umbral de Hoja
+options.lbl.min_branch=Longitud Mínima de Rama
+options.lbl.trunk_settings=Configuración de Tronco
+options.lbl.leaf_settings=Configuración de Hojas
+options.lbl.bg_color=Color de Fondo
+options.lbl.typical_height=Altura Efectiva Típica
+options.lbl.fallen_dispersion=Dispersión de Hojas Caídas
+options.lbl.fallen_density=Densidad de Hojas Caídas
+options.lbl.max_depth=Profundidad Máxima
+options.lbl.max_angle=Inclinación Máxima de Rama
+options.lbl.ratio_range=Rango de Decaimiento de Longitud
+options.lbl.angle_range=Rango de Ángulo de Bifurcación
+options.lbl.initial_length=Longitud del Tronco
+options.btn.settings=Configuración
+options.btn.select=Seleccionar
+options.btn.distribution=Curva de Distribución
+options.btn.confirm=OK
+options.btn.preview=Vista Previa
+options.btn.cancel=Cancelar
+options.btn.help=Ayuda
+options.btn.open_folder=Abrir Carpeta de Árboles
+options.param_group=Grupo de Parámetros {0}
+options.default_name=Sin título
+
+# ---- Títulos de diálogos ----
+dialog.length_distribution=Distribución de Probabilidad de Decaimiento de Longitud
+dialog.angle_distribution=Distribución de Probabilidad de Ángulo de Bifurcación
+dialog.trunk=Tronco
+dialog.leaf=Hoja
+
+# ---- Editor de peso de color (ColorWeightEditor) ----
+coloreditor.title=Configuración de Color
+coloreditor.title.suffix=Configuración de Color
+coloreditor.btn.add=+ Añadir Color
+coloreditor.btn.cancel=Cancelar
+coloreditor.btn.confirm=OK
+coloreditor.btn.pick=Seleccionar
+coloreditor.lbl.weight=Peso：
+coloreditor.lbl.width_ratio=Proporción de Ancho de Línea：
+
+# ---- Editor de curvas de distribución (LengthDistributionDialog) ----
+distribution.btn.reset=Restablecer a Uniforme
+distribution.btn.confirm=OK
+distribution.btn.cancel=Cancelar
+distribution.hint=Haz clic en el gráfico de barras para ajustar los pesos de probabilidad de cada intervalo
+
+# ---- Barra de menú ----
+menu.language=Idioma
+menu.lang.zh_cn=中文
+menu.lang.en_us=English
+menu.lang.ja_jp=日本語
+menu.lang.ko_kr=한국어
+menu.lang.ru_ru=Русский
+menu.lang.fr_fr=Français
+menu.lang.de_de=Deutsch
+menu.lang.es_es=Español
+
+# ---- Nombres de árboles preestablecidos ----
+preset.classic=Árbol Fractal Clásico
+preset.sakura=Cerezo
+preset.green=Árbol Verde
+preset.pine=Pino
+preset.maple=Arce
+preset.maple.group1=Tronco
+preset.maple.group2=Copa
