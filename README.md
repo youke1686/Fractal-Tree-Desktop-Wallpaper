@@ -1,5 +1,7 @@
 # 分形树桌面壁纸
 
+[中文](README.md) | [English](README_en.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [Español](README_es.md)
+
 一款基于 C# Windows Forms 开发的分形树生成器，可以生成各种形态的分形树并设置为 Windows 桌面壁纸。
 一起在电脑桌面植树造林吧！
 
